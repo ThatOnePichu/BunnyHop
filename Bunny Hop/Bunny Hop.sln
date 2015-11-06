@@ -17,7 +17,11 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD:Bunny Hop/Bunny Hop.sln
 	GlobalSection(MonoDevelopProperties) = preSolution
+=======
+					GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> origin/master:BunnyHop/BunnyHop.sln
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
